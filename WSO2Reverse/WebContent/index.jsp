@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome !
+Welcome, on my fist Git project !
 </body>
 </html>
